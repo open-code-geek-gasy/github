@@ -1,4 +1,4 @@
-## ADD GITHUB ICON LIST forked from [rxaviers icon ](https://gist.github.com/rxaviers/7360908)
+## ADD GITHUB ICON LIST forked from [rxaviers icon ](https://gist.github.com/rxaviers/7360908) to OPEN-CODE-GEEK-GAST
 
 People
 
